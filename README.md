@@ -3,7 +3,7 @@ TITLE:
 Stolyarenko - Petit Biscuit
 
 AUTHOR:
-DESIGNED Julia (by sistr)
+DESIGNED Julia (by sister)
 DEVELOPED by Stolyarenko (by me)
 
 CREDITS:
